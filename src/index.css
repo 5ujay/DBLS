@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* src/index.css or global.css */
+.loader {
+  border: 4px solid rgba(255, 255, 255, 0.1);
+  border-top-color: #f59e0b; /* amber-500 */
+}

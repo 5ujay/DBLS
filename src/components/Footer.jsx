@@ -42,7 +42,7 @@ const Footer = () => {
         <div className="flex flex-col items-center md:items-end space-y-3">
           <div className="flex space-x-5 text-xl">
             <a
-              href="https://instagram.com/yourstudio"
+              href="https://www.instagram.com/digambar_bailkar_photography/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
@@ -50,7 +50,7 @@ const Footer = () => {
               <FaInstagram />
             </a>
             <a
-              href="https://youtube.com/@yourstudio"
+              href="https://www.youtube.com/@digambarbailkarphotography2625/videos"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
@@ -58,13 +58,13 @@ const Footer = () => {
               <FaYoutube />
             </a>
             <a
-              href="mailto:yourstudioemail@gmail.com"
+              href="mailto:bailkardigamber1@gmail.com"
               className="hover:text-white transition-colors"
             >
               <FaEnvelope />
             </a>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/8007560950"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"

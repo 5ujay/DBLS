@@ -75,6 +75,8 @@ const About = () => {
               </div>
             </div>
           </div>
+
+          Test
         </motion.div>
       </ScrollReveal>
     </section>

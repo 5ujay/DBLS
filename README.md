@@ -15,23 +15,7 @@ The website gives potential clients a complete view of BDLS Studio’s professio
 
 > 🖤 “Photography is the story we fail to put into words.” – Destin Sparks  
 
----
-
-## 🖼️ Website Preview
-
-![BDLS Photography Website Showcase](./public/images/preview/bdls-showcase.jpg)
-
-> *(💡 Tip: Replace the above image with an actual screenshot of your site — save it in `/public/images/preview/` folder.)*
-
----
-
-## ⚙️ How It Was Created
-
-This website is crafted with a focus on **modern design, performance, and storytelling**.  
-It uses advanced frontend tools to ensure **fast loading**, **smooth motion**, and **pixel-perfect UI**.  
-
 ### 🛠️ Tech Stack
-
 | 🚀 Technology | 🧩 Purpose |
 |---------------|------------|
 | **React (Vite)** ⚡ | Component-based structure & fast bundling |
@@ -41,16 +25,9 @@ It uses advanced frontend tools to ensure **fast loading**, **smooth motion**, a
 | **React Router DOM** 🗺️ | Seamless navigation between pages |
 
 ---
-
-
-
----
-
-
 ---
 
 ## 🧩 Key Features
-
 ✨ **Animated Landing Page** – Smooth motion effects with Framer Motion  
 📸 **Gallery Showcase** – Professionally structured grid layout  
 👤 **About Section** – Photographer bio, team, and services  

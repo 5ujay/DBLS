@@ -2,9 +2,6 @@ Perfect 😎 — here’s a **complete, professional, emoji-rich `README.md` fil
 
 You can copy-paste this directly into your project as `README.md` ✅
 
----
-
-```markdown
 # 📸✨ BDLS Photography Portfolio Website
 
 ![Website Preview](./public/images/preview/bdls-preview.jpg)
@@ -48,38 +45,10 @@ It uses advanced frontend tools to ensure **fast loading**, **smooth motion**, a
 
 ---
 
-## 📁 Project Structure
 
-```
 
-bdls-photography/
-├── public/
-│   ├── images/
-│   │   ├── hero/
-│   │   ├── gallery/
-│   │   ├── about/
-│   │   └── preview/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── HeroSection.jsx
-│   │   ├── AboutSection.jsx
-│   │   ├── Gallery.jsx
-│   │   ├── ContactCTA.jsx
-│   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── GalleryPage.jsx
-│   │   └── Contact.jsx
-│   ├── styles/
-│   │   └── global.css
-│   ├── App.jsx
-│   └── main.jsx
-└── package.json
+---
 
-````
 
 ---
 
@@ -97,31 +66,13 @@ bdls-photography/
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally 👇
-
-### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/bdls-photography.git
 cd bdls-photography
-````
-
-### 2️⃣ Install Dependencies
-
-```bash
 npm install
-```
-
-### 3️⃣ Start the Development Server
-
-```bash
 npm run dev
-```
-
-### 4️⃣ Build for Production
-
-```bash
 npm run build
 ```
-
 ---
 
 ## 🌈 Highlights

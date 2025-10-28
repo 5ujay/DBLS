@@ -1,6 +1,3 @@
-Perfect 😎 — here’s a **complete, professional, emoji-rich `README.md` file** for your **BDLS Photography Portfolio Website** — formatted beautifully for GitHub, with all sections (About, Preview, Tech Stack, How It Was Built, Contact, and Developer Info) in **one single markdown block**.
-
-You can copy-paste this directly into your project as `README.md` ✅
 
 # 📸✨ BDLS Photography Portfolio Website
 

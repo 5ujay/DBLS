@@ -41,8 +41,8 @@ The website gives potential clients a complete view of BDLS Studio’s professio
 
 Follow these steps to run the project locally 👇
 ```bash
-git clone https://github.com/yourusername/bdls-photography.git
-cd bdls-photography
+git clone https://github.com/5ujay/dbls-photography.git
+cd dbls-photography
 npm install
 npm run dev
 npm run build

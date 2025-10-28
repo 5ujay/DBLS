@@ -1,7 +1,7 @@
 
 # 📸✨ BDLS Photography Portfolio Website
 
-![Website Preview](./public/images/preview/bdls-preview.jpg)
+![Website Preview](./DBLS-preview.png)
 
 ---
 

@@ -67,5 +67,3 @@ Developed with ❤️ by **Sujay Pagam**
 
 > 🏆 *A fusion of creativity and code – turning art into a digital experience.*
 
-```
-
